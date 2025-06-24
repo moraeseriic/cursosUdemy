@@ -7,8 +7,8 @@ ___
 
 ## Cursos em Progresso/Realizados
 
-- [x] Aprenda Git e GitHub em 3 dias + Projetos reais
-- [ ] SQL para Análise de Dados: Do básico ao avançado
+- [x] [Aprenda Git e GitHub em 3 dias + Projetos reais](udemy.com/course/aprenda-git-e-github/)
+- [ ] [SQL para Análise de Dados: Do básico ao avançado](udemy.com/course/sql-para-analise-de-dados)
 
 ## Contexto de Desenvolvimento
 
